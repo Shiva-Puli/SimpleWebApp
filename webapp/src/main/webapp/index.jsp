@@ -92,14 +92,14 @@ h1{
             <span style="font-size:64px;margin-right:10px;color:orange">Shopping Website</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
+		<li><a href="#product">Product</a></li>
+		<li><a href="#sale">Sale</a></li>
                 <li><a href="#about">About Us</a></li>
-                <li><a href="#product">Product</a></li>
-                <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
 		
         </header>
-         <h1>Great Republic day sale</h1>
+         <h1>The Ultimate Stop For All Your Needs</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
