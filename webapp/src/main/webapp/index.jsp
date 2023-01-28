@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:48px;margin-right:10px;color:purple">ADIDAS</span>
+            <span style="font-size:48px;margin-right:10px;color:white">ADIDAS</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
 		<li><a href="#product">Product</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-	        <h1>The Ultimate Stop For All Your Needs</h1>
+                <h1>The Ultimate Stop For All Your Needs</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
